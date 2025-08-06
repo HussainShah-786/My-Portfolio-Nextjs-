@@ -175,34 +175,34 @@ var __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$scri
 ;
 ;
 const metadata = {
-    title: "John Doe | Developer Portfolio",
-    description: "Explore the portfolio of John Doe, a skilled developer specializing in web development, UI/UX design, and modern JavaScript frameworks. View projects, services, and contact details.",
-    keywords: "developer portfolio, web developer, John Doe, UI/UX design, JavaScript, Next.js, frontend developer",
+    title: "Hussain Shah | Personal Portfolio",
+    description: "Explore the portfolio of Hussain Shah, a skilled developer specializing in web development, UI/UX design, and modern JavaScript frameworks. View projects, services, and contact details.",
+    keywords: "Personal portfolio, web developer, Hussain Shah, UI/UX design, JavaScript, Next.js, frontend developer",
     authors: [
         {
-            name: "John Doe"
+            name: "Hussain Shah"
         }
     ],
     robots: "index, follow",
     openGraph: {
         type: "website",
         url: "https://portfoliofive.reactbd.com/",
-        title: "John Doe | Developer Portfolio",
-        description: "Discover John Doe's portfolio showcasing expertise in web development, UI/UX, and modern frameworks. Contact for services or collaboration.",
+        title: "Hussain Shah | Pesonal Portfolio",
+        description: "Discover Hussain shah's portfolio showcasing expertise in web development, UI/UX, and modern frameworks. Contact for services or collaboration.",
         images: [
             {
                 url: "https://portfoliofive.reactbd.com/assets/og-image.jpg",
                 width: 1200,
                 height: 630,
-                alt: "John Doe Portfolio Preview"
+                alt: "Hussain Shah's Portfolio Preview"
             }
         ]
     },
     twitter: {
         card: "summary_large_image",
         site: "@YourTwitterHandle",
-        title: "John Doe | Developer Portfolio",
-        description: "Check out John Doe's portfolio for web development and UI/UX design projects.",
+        title: "Hussain Shah | Personal Portfolio",
+        description: "Check out Hussain Shah's portfolio for web development and UI/UX design projects.",
         images: [
             "https://portfoliofive.reactbd.com/assets/og-image.jpg"
         ]
@@ -283,7 +283,7 @@ function RootLayout({ children }) {
                             __html: JSON.stringify({
                                 "@context": "https://schema.org",
                                 "@type": "WebSite",
-                                name: "John Doe Portfolio",
+                                name: "Hussain Shah Portfolio",
                                 url: "https://portfoliofive.reactbd.com/",
                                 potentialAction: {
                                     "@type": "SearchAction",
