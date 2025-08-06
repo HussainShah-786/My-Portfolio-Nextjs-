@@ -7,7 +7,7 @@ import { Toaster } from "@/components/ui/toaster";
 import Script from "next/script";
 
 export const metadata: Metadata = {
-  title: "John Doe | Developer Portfolio",
+  title: "Hussain Shah | Personal Portfolio",
   description:
     "Explore the portfolio of John Doe, a skilled developer specializing in web development, UI/UX design, and modern JavaScript frameworks. View projects, services, and contact details.",
   keywords:

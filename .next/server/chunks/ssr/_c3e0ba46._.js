@@ -175,7 +175,7 @@ var __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$scri
 ;
 ;
 const metadata = {
-    title: "John Doe | Developer Portfolio",
+    title: "Hussain Shah | Personal Portfolio",
     description: "Explore the portfolio of John Doe, a skilled developer specializing in web development, UI/UX design, and modern JavaScript frameworks. View projects, services, and contact details.",
     keywords: "developer portfolio, web developer, John Doe, UI/UX design, JavaScript, Next.js, frontend developer",
     authors: [
