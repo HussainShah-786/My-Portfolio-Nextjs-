@@ -9,30 +9,30 @@ import Script from "next/script";
 export const metadata: Metadata = {
   title: "Hussain Shah | Personal Portfolio",
   description:
-    "Explore the portfolio of John Doe, a skilled developer specializing in web development, UI/UX design, and modern JavaScript frameworks. View projects, services, and contact details.",
+    "Explore the portfolio of Hussain Shah, a skilled developer specializing in web development, UI/UX design, and modern JavaScript frameworks. View projects, services, and contact details.",
   keywords:
-    "developer portfolio, web developer, John Doe, UI/UX design, JavaScript, Next.js, frontend developer",
-  authors: [{ name: "John Doe" }],
+    "Personal portfolio, web developer, Hussain Shah, UI/UX design, JavaScript, Next.js, frontend developer",
+  authors: [{ name: "Hussain Shah" }],
   robots: "index, follow",
   openGraph: {
     type: "website",
     url: "https://portfoliofive.reactbd.com/",
-    title: "John Doe | Developer Portfolio",
+    title: "Hussain Shah | Pesonal Portfolio",
     description:
-      "Discover John Doe's portfolio showcasing expertise in web development, UI/UX, and modern frameworks. Contact for services or collaboration.",
+      "Discover Hussain shah's portfolio showcasing expertise in web development, UI/UX, and modern frameworks. Contact for services or collaboration.",
     images: [
       {
         url: "https://portfoliofive.reactbd.com/assets/og-image.jpg",
         width: 1200,
         height: 630,
-        alt: "John Doe Portfolio Preview",
+        alt: "Hussain Shah's Portfolio Preview",
       },
     ],
   },
   twitter: {
     card: "summary_large_image",
     site: "@YourTwitterHandle", // Replace with your Twitter handle
-    title: "John Doe | Developer Portfolio",
+    title: "Hussain Shah | Personal Portfolio",
     description:
       "Check out John Doe's portfolio for web development and UI/UX design projects.",
     images: ["https://portfoliofive.reactbd.com/assets/og-image.jpg"],
