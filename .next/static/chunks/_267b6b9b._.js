@@ -70,7 +70,7 @@ var _s = __turbopack_context__.k.signature();
 const HomeDescription = ()=>{
     _s();
     const [hasLoaded, setHasLoaded] = (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$index$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["useState"])(false);
-    const description = "sAs a Software Engineer, I design and build innovative software solutions, solve complex problems, and ensure systems are scalable and user-friendly. From creating web apps to optimizing backend systems, I bridge the gap between technology and user needs.";
+    const description = "sI’m a Software Engineer who builds smart, efficient software solutions. Whether it’s designing user-friendly web apps or improving backend systems, I focus on solving problems and making technology work better for people.";
     const { displayedText, isComplete } = (0, __TURBOPACK__imported__module__$5b$project$5d2f$hooks$2f$user$2d$type$2d$writer$2e$ts__$5b$app$2d$client$5d$__$28$ecmascript$29$__["useTypewriter"])(description, 30);
     (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$index$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["useEffect"])({
         "HomeDescription.useEffect": ()=>{
