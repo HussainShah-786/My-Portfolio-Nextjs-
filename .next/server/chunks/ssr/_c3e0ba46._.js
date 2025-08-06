@@ -202,7 +202,7 @@ const metadata = {
         card: "summary_large_image",
         site: "@YourTwitterHandle",
         title: "Hussain Shah | Personal Portfolio",
-        description: "Check out John Doe's portfolio for web development and UI/UX design projects.",
+        description: "Check out Hussain Shah's portfolio for web development and UI/UX design projects.",
         images: [
             "https://portfoliofive.reactbd.com/assets/og-image.jpg"
         ]
@@ -283,7 +283,7 @@ function RootLayout({ children }) {
                             __html: JSON.stringify({
                                 "@context": "https://schema.org",
                                 "@type": "WebSite",
-                                name: "John Doe Portfolio",
+                                name: "Hussain Shah Portfolio",
                                 url: "https://portfoliofive.reactbd.com/",
                                 potentialAction: {
                                     "@type": "SearchAction",

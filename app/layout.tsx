@@ -34,7 +34,7 @@ export const metadata: Metadata = {
     site: "@YourTwitterHandle", // Replace with your Twitter handle
     title: "Hussain Shah | Personal Portfolio",
     description:
-      "Check out John Doe's portfolio for web development and UI/UX design projects.",
+      "Check out Hussain Shah's portfolio for web development and UI/UX design projects.",
     images: ["https://portfoliofive.reactbd.com/assets/og-image.jpg"],
   },
   alternates: {
@@ -78,7 +78,7 @@ export default function RootLayout({
             __html: JSON.stringify({
               "@context": "https://schema.org",
               "@type": "WebSite",
-              name: "John Doe Portfolio",
+              name: "Hussain Shah Portfolio",
               url: "https://portfoliofive.reactbd.com/",
               potentialAction: {
                 "@type": "SearchAction",
