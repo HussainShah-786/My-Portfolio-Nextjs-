@@ -252,10 +252,10 @@ const socialData = [
             height: 20
         }, void 0, false, {
             fileName: "[project]/components/SocialLinks.tsx",
-            lineNumber: 8,
+            lineNumber: 9,
             columnNumber: 11
         }, this),
-        link: "https://www.github.com"
+        link: "https://www.youtube.com/watch?v=JgYHjk8k4W0"
     },
     {
         title: "Github",
@@ -264,10 +264,10 @@ const socialData = [
             height: 20
         }, void 0, false, {
             fileName: "[project]/components/SocialLinks.tsx",
-            lineNumber: 13,
+            lineNumber: 14,
             columnNumber: 11
         }, this),
-        link: "https://www.github.com"
+        link: "https://github.com/HussainShah-786"
     },
     {
         title: "Linkedin",
@@ -276,10 +276,10 @@ const socialData = [
             height: 20
         }, void 0, false, {
             fileName: "[project]/components/SocialLinks.tsx",
-            lineNumber: 18,
+            lineNumber: 19,
             columnNumber: 11
         }, this),
-        link: "https://www.github.com"
+        link: "https://www.linkedin.com/in/hussain-shah-2978ab131/"
     },
     {
         title: "Facebook",
@@ -288,10 +288,10 @@ const socialData = [
             height: 20
         }, void 0, false, {
             fileName: "[project]/components/SocialLinks.tsx",
-            lineNumber: 23,
+            lineNumber: 24,
             columnNumber: 11
         }, this),
-        link: "https://www.github.com"
+        link: "https://www.facebook.com/hsyn.abn.hydr.592561"
     },
     {
         title: "instagram",
@@ -300,10 +300,10 @@ const socialData = [
             height: 20
         }, void 0, false, {
             fileName: "[project]/components/SocialLinks.tsx",
-            lineNumber: 28,
+            lineNumber: 29,
             columnNumber: 11
         }, this),
-        link: "https://www.github.com"
+        link: "https://www.instagram.com/hussain_haidery72/"
     }
 ];
 const SocialLinks = ()=>{
@@ -312,29 +312,29 @@ const SocialLinks = ()=>{
         children: socialData?.map((item)=>/*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
                 className: "text-lightSky/80 border border-lightSky/30 p-2.5 rounded-full hover:bg-lightSky/10 hover:border-lightSky hover:text-lightSky hoverEffect",
                 children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$client$2f$app$2d$dir$2f$link$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["default"], {
-                    href: "https://www.github.com",
+                    href: item.link,
                     target: "blank",
                     children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
                         className: "",
                         children: item?.icon
                     }, void 0, false, {
                         fileName: "[project]/components/SocialLinks.tsx",
-                        lineNumber: 42,
+                        lineNumber: 43,
                         columnNumber: 13
                     }, this)
                 }, void 0, false, {
                     fileName: "[project]/components/SocialLinks.tsx",
-                    lineNumber: 41,
+                    lineNumber: 42,
                     columnNumber: 11
                 }, this)
             }, item?.title, false, {
                 fileName: "[project]/components/SocialLinks.tsx",
-                lineNumber: 37,
+                lineNumber: 38,
                 columnNumber: 9
             }, this))
     }, void 0, false, {
         fileName: "[project]/components/SocialLinks.tsx",
-        lineNumber: 35,
+        lineNumber: 36,
         columnNumber: 5
     }, this);
 };
