@@ -6,7 +6,7 @@ import Image from "next/image";
 import hero from "@/images/hussains.png";
 
 const EnhancedPhoto = () => {
-  const circleColors = ["#00ff99"];
+  const circleColors = ["#00ff99 ", "#00ff99"];
 
   const circleVariants = {
     initial: {

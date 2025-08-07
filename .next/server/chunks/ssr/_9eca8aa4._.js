@@ -146,6 +146,7 @@ var __TURBOPACK__imported__module__$5b$project$5d2f$images$2f$hussains$2e$png$2e
 ;
 const EnhancedPhoto = ()=>{
     const circleColors = [
+        "#00ff99 ",
         "#00ff99"
     ];
     const circleVariants = {
