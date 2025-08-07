@@ -157,11 +157,11 @@ const NavbarData = [
 ];
 const statsData = [
     {
-        num: 12,
+        num: 6,
         text: "Years of experience"
     },
     {
-        num: 25,
+        num: 35,
         text: "Projects completed"
     },
     {
@@ -169,7 +169,7 @@ const statsData = [
         text: "Technologies mastered"
     },
     {
-        num: 500,
+        num: 690,
         text: "Code commits"
     }
 ];
