@@ -1,6 +1,7 @@
 {
   "app": {
     "[project]/app/_not-found/page": [],
+    "[project]/app/contact/page": [],
     "[project]/app/page": [],
     "[project]/app/resume/page": [],
     "[project]/app/services/page": []

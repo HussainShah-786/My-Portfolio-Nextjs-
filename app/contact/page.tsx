@@ -8,7 +8,7 @@ const infoData = [
   { title: "Email", description: "hussainshah58435@gmail.com", icon: <Mail /> },
   {
     title: "Address",
-    description: "North Aims Technologies, Haji Ibrahim Market Danyore Gilgit",
+    description: "North Aims Technologies, Haji Ibrahim Market Danyore Gilgit"
     icon: <MapPinCheck />,
   },
 ];
