@@ -148,7 +148,7 @@ const tabContent = {
         items: [
             {
                 role: "Senior Frontend Developer",
-                company: "Tech Solutions Inc.",
+                company: "North Aims Technologies pvt Ltd",
                 period: "2016 - Present",
                 description: "Led the development of multiple React-based web applications, improving performance by 40%. Mentored junior developers and implemented best practices for code quality.",
                 highlights: [
