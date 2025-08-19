@@ -4,7 +4,8 @@
     "[project]/app/contact/page": [],
     "[project]/app/page": [],
     "[project]/app/resume/page": [],
-    "[project]/app/services/page": []
+    "[project]/app/services/page": [],
+    "[project]/app/work/page": []
   },
   "appUsingSizeAdjust": false,
   "pages": {},
