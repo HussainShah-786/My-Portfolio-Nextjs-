@@ -20,15 +20,15 @@ const tabContent = {
       {
         role: "Senior Frontend Developer",
         company: "North Aims Technologies pvt Ltd",
-        period: "2016 - Present",
+        period: "2018 - Present",
         description:
           "Led the development of multiple React-based web applications, improving performance by 40%. Mentored junior developers and implemented best practices for code quality.",
         highlights: ["React", "Next.js", "TypeScript", "Team Leadership"],
       },
       {
-        role: "Full Stack Developer",
-        company: "Digital Innovations Ltd",
-        period: "2018 - 2021",
+        role: "Frontend Developer",
+        company: "Uconnect Technologies pvt Ltd",
+        period: "2016 - 2018",
         description:
           "Developed and maintained full-stack applications using modern JavaScript frameworks. Collaborated with cross-functional teams to deliver high-quality solutions.",
         highlights: ["Node.js", "React", "MongoDB", "AWS"],
@@ -40,16 +40,16 @@ const tabContent = {
     items: [
       {
         degree: "Master of Computer Science",
-        institution: "Tech University",
-        period: "2016 - 2018",
+        institution: "Karakoram International University",
+        period: "2021 - 2023",
         description:
           "Specialized in Software Engineering and Artificial Intelligence. Graduated with honors.",
         achievements: ["4.0 GPA", "Research Publication", "Dean's List"],
       },
       {
         degree: "Bachelor of Computer Science",
-        institution: "State University",
-        period: "2012 - 2016",
+        institution: "Comsets University Islamabad",
+        period: "2016 - 2020",
         description:
           "Foundation in computer science principles, data structures, and algorithms.",
         achievements: ["Academic Excellence Award", "Programming Club Lead"],
