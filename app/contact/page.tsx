@@ -4,7 +4,7 @@ import { Mail, MapPinCheck, Phone } from "lucide-react";
 import React from "react";
 
 const infoData = [
-  { title: "Phone", description: "(+021) 251 198 254", icon: <Phone /> },
+  { title: "Phone", description: "(+92) 311-1591452", icon: <Phone /> },
   { title: "Email", description: "youremail@gmail.com", icon: <Mail /> },
   {
     title: "Address",
