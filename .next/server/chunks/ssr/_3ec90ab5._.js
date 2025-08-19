@@ -149,7 +149,7 @@ const tabContent = {
             {
                 role: "Senior Frontend Developer",
                 company: "Tech Solutions Inc.",
-                period: "2021 - Present",
+                period: "2016 - Present",
                 description: "Led the development of multiple React-based web applications, improving performance by 40%. Mentored junior developers and implemented best practices for code quality.",
                 highlights: [
                     "React",
