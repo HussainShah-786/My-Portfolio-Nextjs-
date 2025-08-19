@@ -133,7 +133,7 @@ const infoData = [
     },
     {
         title: "Address",
-        description: "North Aims Technologies, Haji Ibrahim Market Danyore Gilgit"
+        description: "North Aims Technologies, Haji Ibrahim Market Danyore, Gilgit"
     }
 ];
 const ContactPage = ()=>{
