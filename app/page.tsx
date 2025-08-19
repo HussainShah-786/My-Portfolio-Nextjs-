@@ -33,7 +33,7 @@ export default function Home() {
             systems, I bridge the gap between technology and user needs.
           </p> */}
 
-          <Button className="bg-transparent rounded-full border border-lightSky/50 text-lightSky hover:bg-hoverColor hover:text-black hoverEffect">
+          <Button className=" mt-4 md:mt-0 bg-transparent rounded-full border border-lightSky/50 text-lightSky hover:bg-hoverColor hover:text-black hoverEffect">
             <Link
               href="/hussainresume.pdf"
               target="_blank"
