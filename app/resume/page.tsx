@@ -52,7 +52,7 @@ const tabContent = {
         period: "2016 - 2020",
         description:
           "Foundation in computer science principles, data structures, and algorithms.",
-        achievements: ["Academic Excellence Award", "Programming Club Lead"],
+        achievements: ["PM Laptop Award", "Programming Club Lead"],
       },
     ],
   },
