@@ -5,7 +5,7 @@ import React from "react";
 
 const infoData = [
   { title: "Phone", description: "(+92) 311-1591452", icon: <Phone /> },
-  { title: "Email", description: "youremail@gmail.com", icon: <Mail /> },
+  { title: "Email", description: "hussainshah58435@gmail.com", icon: <Mail /> },
   {
     title: "Address",
     description: "New Town, through back city",
