@@ -7,6 +7,7 @@ import Link from "next/link";
 import { usePathname } from "next/navigation";
 import { Menu } from "lucide-react";
 import Sidebar from "./Sidebar";
+import Image from "next/image";
 
 const Header = () => {
   const pathname = usePathname();
@@ -19,7 +20,16 @@ const Header = () => {
   return (
     <header className="border-b border-b-hoverColor/10 sticky top-0 z-50 bg-bodyColor">
       <Container className="flex items-center justify-between py-5">
+        <div className="flex items-center gap-3">
+        <Image
+          src="/imagelogo.png"
+          width={40}
+          height={40}
+          alt="Picture of the author"
+        />
         <Logo title="Hussain" subtitle="Shah" />
+        </div>
+        
         <div className="hidden md:flex items-center gap-7 text-sm uppercase tracking-wide font-medium">
           {NavbarData?.map((item) => (
             <Link
