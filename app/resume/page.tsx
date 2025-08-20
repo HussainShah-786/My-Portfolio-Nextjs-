@@ -23,7 +23,7 @@ const tabContent = {
         period: "2018 - Present",
         description:
           "Led the development of multiple React-based web applications, improving performance by 40%. Mentored junior developers and implemented best practices for code quality.",
-        highlights: ["React", "Next.js", "TypeScript", "Team Leadership"],
+        highlights: ["React", "Next.js", "TypeScript", "Tailwind CSS"],
       },
       {
         role: "Frontend Developer",
@@ -31,7 +31,7 @@ const tabContent = {
         period: "2016 - 2018",
         description:
           "Developed and maintained full-stack applications using modern JavaScript frameworks. Collaborated with cross-functional teams to deliver high-quality solutions.",
-        highlights: ["Node.js", "React", "MongoDB", "AWS"],
+        highlights: ["Node.js", "React", "MongoDB", "Express.js", "Git"],
       },
     ],
   },
@@ -44,7 +44,7 @@ const tabContent = {
         period: "2021 - 2023",
         description:
           "Specialized in Software Engineering and Artificial Intelligence. Graduated with honors.",
-        achievements: ["4.0 GPA", "Research Publication", "Dean's List"],
+        achievements: ["4.0 GPA", "Research Publication", "Project Management"],
       },
       {
         degree: "Bachelor of Computer Science",
@@ -94,7 +94,7 @@ const tabContent = {
       "UI/UX Design",
       "Machine Learning",
     ],
-    languages: ["English (Native)", "Spanish (Intermediate)", "German (Basic)"],
+    languages: ["English (Fluent)", "Urdu (Native)", "china (Basic)"],
   },
 };
 
