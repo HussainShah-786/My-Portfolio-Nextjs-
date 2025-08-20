@@ -62,7 +62,7 @@ const tabContent = {
       {
         name: "Frontend Development",
         description:
-          "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Et, distinctio. Quas fugiat nesciunt ipsum. Voluptatem inventore iste labore, similique quod laudantium rerum dolor, impedit voluptas distinctio praesentium quibusdam veniam tempore. Laudantium repellendus possimus adipisci maxime.",
+          "Front-end developer experienced in building modern, responsive web apps. Skilled in HTML, CSS, JavaScript, and frameworks for seamless user experiences. Passionate about clean UI, accessibility, and performance optimization. Dedicated to crafting intuitive, scalable, and user-focused digital solutions.",
         skills: [
           "React",
           "Next.js",
@@ -74,13 +74,13 @@ const tabContent = {
       {
         name: "Backend Development",
         description:
-          "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Et, distinctio. Quas fugiat nesciunt ipsum. Voluptatem inventore iste labore, similique quod laudantium rerum dolor, impedit voluptas distinctio praesentium quibusdam veniam tempore. Laudantium repellendus possimus adipisci maxime.",
+          "Back-end developer experienced in building scalable, secure web applications with databases, APIs, and modern frameworks. Skilled in server-side programming and optimization to ensure smooth performance and reliability.",
         skills: ["Node.js", "Express", "Python", "PostgreSQL", "MongoDB"],
       },
       {
         name: "Tools & Others",
         description:
-          "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Et, distinctio. Quas fugiat nesciunt ipsum. Voluptatem inventore iste labore, similique quod laudantium rerum dolor, impedit voluptas distinctio praesentium quibusdam veniam tempore. Laudantium repellendus possimus adipisci maxime.",
+          "Proficient with Git & GitHub for version control, Postman for API testing, and VS Code for development. Experienced with Docker, CI/CD workflows, and cloud platforms like AWS and Firebase. Skilled in using Figma for design collaboration and applying Agile/Scrum methodologies for efficient teamwork.",
         skills: ["Git", "Docker", "AWS", "CI/CD", "Agile Methodologies"],
       },
     ],
