@@ -48,7 +48,7 @@ const tabContent = {
       },
       {
         degree: "Bachelor of Computer Science",
-        institution: "Comsets University Islamabad",
+        institution: "Comsat University Islamabad",
         period: "2016 - 2020",
         description:
           "Specialized in Information Technology with a strong academic foundation. Graduated from COMSATS Institute of Information Technology, Islamabad. Gained expertise in modern technologies and practical problem-solving approaches",
