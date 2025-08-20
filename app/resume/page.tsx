@@ -62,7 +62,7 @@ const tabContent = {
       {
         name: "Frontend Development",
         description:
-          "Front-end developer with strong experience in creating modern, responsive web applications. Skilled in HTML, CSS, JavaScript, and frameworks to deliver seamless user experiences. Passionate about accessibility, clean UI design, and performance optimization. Dedicated to writing efficient, maintainable code while staying updated with emerging technologies. Enthusiastic about turning complex ideas into intuitive digital solutions that engage users effectively.",
+          "Front-end developer experienced in building modern, responsive web apps. Skilled in HTML, CSS, JavaScript, and frameworks for seamless user experiences. Passionate about clean UI, accessibility, and performance optimization. Dedicated to crafting intuitive, scalable, and user-focused digital solutions.",
         skills: [
           "React",
           "Next.js",
