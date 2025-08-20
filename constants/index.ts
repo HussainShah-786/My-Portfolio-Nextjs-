@@ -18,14 +18,14 @@ export const servicesData = [
     _id: "01",
     title: "Web Development",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Placeat, sequi distinctio minus esse consequatur fugit accusamus velit iste quisquam aut.",
+      "Web development empowers us to build solutions that impact millions.It transforms imagination into powerful digital experiences.With every project, we code the future of connectivity.",
     href: "https://www.linkedin.com/in/hussain-shah-2978ab131/",
   },
   {
     _id: "02",
     title: "App Development",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Placeat, sequi distinctio minus esse consequatur fugit accusamus velit iste quisquam aut.",
+      "App development enables us to create tools that simplify everyday life.It turns innovative ideas into seamless mobile experiences.With every application.",
     href: "https://www.linkedin.com/in/hussain-shah-2978ab131/",
   },
   {
