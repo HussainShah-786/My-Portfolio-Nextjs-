@@ -87,7 +87,7 @@ const tabContent = {
   },
   about: {
     title: "About Me",
-    bio: "Passionate software developer with over 5 years of experience in building modern web applications. Committed to writing clean, maintainable code and staying current with emerging technologies. Strong advocate for user-centric design and accessibility.",
+    bio: "Talented software developer with more than 5 years in designing and implementing web applications. Driven by clean coding practices and modern technology adoption. Advocate of seamless user experiences and accessibility in every project.",
     interests: [
       "Open Source Contributing",
       "Tech Blogging",
