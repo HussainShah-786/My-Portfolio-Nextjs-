@@ -43,7 +43,7 @@ const tabContent = {
         institution: "Karakoram International University",
         period: "2021 - 2023",
         description:
-          "Specialized in Software Engineering and Artificial Intelligence. Graduated with honors.",
+          "Have done Masters in Software Engineering, with a degree from Karakoram International University. Skilled in modern technologies and passionate about building intelligent, efficient solutions.",
         achievements: ["4.0 GPA", "Research Publication", "Project Management"],
       },
       {
@@ -51,7 +51,7 @@ const tabContent = {
         institution: "Comsets University Islamabad",
         period: "2016 - 2020",
         description:
-          "Foundation in computer science principles, data structures, and algorithms.",
+          "Specialized in Information Technology with a strong academic foundation. Graduated from COMSATS Institute of Information Technology, Islamabad. Gained expertise in modern technologies and practical problem-solving approaches",
         achievements: ["PM Laptop Award", "Programming Club Lead"],
       },
     ],
