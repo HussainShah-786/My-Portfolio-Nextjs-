@@ -22,7 +22,7 @@ const tabContent = {
         company: "North Aims Technologies pvt Ltd",
         period: "2018 - Present",
         description:
-          "Led the development of multiple React-based web applications, improving performance by 40%. Mentored junior developers and implemented best practices for code quality.",
+          "Developed and optimized front-end solutions with React, Next.js, and JavaScript, enhancing application performance. Collaborated with teams to deliver modern interfaces and applied best practices for scalability and maintainability.",
         highlights: ["React", "Next.js", "TypeScript", "Tailwind CSS"],
       },
       {
@@ -30,7 +30,7 @@ const tabContent = {
         company: "Uconnect Technologies pvt Ltd",
         period: "2016 - 2018",
         description:
-          "Developed and maintained full-stack applications using modern JavaScript frameworks. Collaborated with cross-functional teams to deliver high-quality solutions.",
+          "Designed and implemented dynamic interfaces with React and Next.js, boosting usability and efficiency. Supported junior developers with mentorship and drove consistent improvements in code quality.",
         highlights: ["Node.js", "React", "MongoDB", "Express.js", "Git"],
       },
     ],
