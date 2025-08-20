@@ -18,28 +18,28 @@ export const servicesData = [
     _id: "01",
     title: "Web Development",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Placeat, sequi distinctio minus esse consequatur fugit accusamus velit iste quisquam aut.",
+      "Web development empowers us to build solutions that impact millions.It transforms imagination into powerful digital experiences.With every project, we code the future of connectivity.",
     href: "https://www.linkedin.com/in/hussain-shah-2978ab131/",
   },
   {
     _id: "02",
     title: "App Development",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Placeat, sequi distinctio minus esse consequatur fugit accusamus velit iste quisquam aut.",
+      "App development enables us to create tools that simplify everyday life.It turns innovative ideas into seamless mobile experiences.With every application.",
     href: "https://www.linkedin.com/in/hussain-shah-2978ab131/",
   },
   {
     _id: "03",
     title: "UI/UX Design",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Placeat, sequi distinctio minus esse consequatur fugit accusamus velit iste quisquam aut.",
+      "UI/UX design creates experiences that feel natural and effortless.It transforms complexity into simplicity through thoughtful interaction.With every design.",
     href: "https://www.linkedin.com/in/hussain-shah-2978ab131/",
   },
   {
     _id: "04",
     title: "Logo Design",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Placeat, sequi distinctio minus esse consequatur fugit accusamus velit iste quisquam aut.",
+      "Logo design captures the essence of a brand in a single mark.It translates vision and values into a timeless visual identity.With every logo, we shape recognition, trust, and lasting impressions.",
     href: "https://www.linkedin.com/in/hussain-shah-2978ab131/",
   },
 ]; 
