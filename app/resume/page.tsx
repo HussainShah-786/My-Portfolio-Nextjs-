@@ -80,7 +80,7 @@ const tabContent = {
       {
         name: "Tools & Others",
         description:
-          "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Et, distinctio. Quas fugiat nesciunt ipsum. Voluptatem inventore iste labore, similique quod laudantium rerum dolor, impedit voluptas distinctio praesentium quibusdam veniam tempore. Laudantium repellendus possimus adipisci maxime.",
+          "Proficient with Git & GitHub for version control, Postman for API testing, and VS Code for development. Experienced with Docker, CI/CD workflows, and cloud platforms like AWS and Firebase. Skilled in using Figma for design collaboration and applying Agile/Scrum methodologies for efficient teamwork.",
         skills: ["Git", "Docker", "AWS", "CI/CD", "Agile Methodologies"],
       },
     ],
