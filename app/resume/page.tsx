@@ -89,7 +89,7 @@ const tabContent = {
     title: "About Me",
     bio: "Talented software developer with more than 5 years in designing and implementing web applications. Driven by clean coding practices and modern technology adoption. Advocate of seamless user experiences and accessibility in every project.",
     interests: [
-      "Open Source Contributing",
+      "Deeplearning",
       "Tech Blogging",
       "UI/UX Design",
       "Machine Learning",
