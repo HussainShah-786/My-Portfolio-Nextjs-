@@ -25,7 +25,7 @@ const Header = () => {
           src="/imagelogo.png"
           width={40}
           height={40}
-          alt="Picture of the author"
+          alt="Picture  of the author"
         />
         <Logo title="Hussain" subtitle="Shah" />
         </div>
