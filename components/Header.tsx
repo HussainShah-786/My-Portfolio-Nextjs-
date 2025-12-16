@@ -27,7 +27,7 @@ const Header = () => {
           height={40}
           alt="Picture of the author"
         />
-        <Logo title="Maheen" subtitle="Zahra" />
+        <Logo title="Hussain" subtitle="Shah" />
         </div>
         
         <div className="hidden md:flex items-center gap-7 text-sm uppercase tracking-wide font-medium">
